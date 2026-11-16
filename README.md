@@ -40,6 +40,6 @@ HOW IT WORKS
 4. Breach Alarm (0): If the target remains through the full countdown, the display latches at 0 and sounds a rapid continuous alarm until 3 consecutive clear readings confirm the area is empty.
 
 HOW TO RUN
-1. Connect the components to the Arduino Uno R3 following the pinout above (see wiring_diagram.png).
+1. Connect the components to the Arduino Uno R3 following the pinout above (see Screenshot 2026-11-16 185537.png).
 2. Open ar_Monitor--Alarm.ino in the Arduino IDE.
 3. Select Arduino Uno and your active COM port, then click Upload.

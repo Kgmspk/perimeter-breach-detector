@@ -41,5 +41,5 @@ HOW IT WORKS
 
 HOW TO RUN
 1. Connect the components to the Arduino Uno R3 following the pinout above (see wiring_diagram.png).
-2. Open restricted_entry_alarm.ino in the Arduino IDE.
+2. Open ar_Monitor--Alarm.ino in the Arduino IDE.
 3. Select Arduino Uno and your active COM port, then click Upload.

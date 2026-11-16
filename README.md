@@ -1,4 +1,4 @@
-# perimeter-breach-detector
+# Perimeter-breach-detector
 RESTRICTED ENTRY COUNTDOWN ALARM
 
 An Arduino Uno R3 embedded proximity alert system that monitors a 25 cm restricted zone using an HC-SR04 ultrasonic sensor, triggering a 5-second visual countdown on a Common Anode 7-segment display and an audible buzzer alarm upon intrusion.
